@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: c8um20dmq-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/c8um20dmq-nodejs-gitops
